@@ -72,5 +72,5 @@ int main()
     distribute_points(points, 1, n - 1);
     cout << points[0].index;
     cout<< points[n / 2].index;
-
+    return 0;
 }
